@@ -25,7 +25,7 @@ state-of-the-art language models.
 * Context - an example sentence showing the real use of the CFU.
 
 ## License
-Distributed under the [Creative Commons Zero v1.0 Universal (https://github.com/mtrives02/CLUE/blob/main/LICENSE)]
+Distributed under the [Creative Commons Zero v1.0 Universal license](https://github.com/mtrives02/CLUE/blob/main/LICENSE)
 
 ## Acknowledgements
 This research work is part of the R&D project "CORTEX: Conscious Text Generation" (PID2021-123956OB-I00), funded by MCIN/AEI/10.13039/501100011033 and the ERDF "A way of
