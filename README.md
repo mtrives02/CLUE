@@ -16,10 +16,11 @@ state-of-the-art language models.
 
 ## Contents
 ### Files
-[clue_dataset.xlsx](https://github.com/mtrives02/CLUE/blob/main/clue_dataset.xlsx) contains the dataset in both English and Spanish.
+* [clue_en.csv](https://github.com/mtrives02/CLUE/blob/main/clue_en.csv) - the dataset in English.
+* [clue_es.csv](https://github.com/mtrives02/CLUE/blob/main/clue_es.csv) - the dataset in Spanish.
 ### Data Fields
 * CFU - the Conventional Figurative Unit (e.g., "to kick the bucket").
-* Type - the type of CFU (word, idiom, simile, proverb).
+* Type - the type of CFU (simplex, idiom, simile, proverb).
 * Concept - the basic meaning of concept expressed by the CFU (e.g., "to die").
 * Context - an example sentence showing the real use of the CFU.
 
