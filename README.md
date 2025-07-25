@@ -2,7 +2,7 @@
 Author: Marta Ramírez Trives
 
 ## Download Link
-[Click here to download the full version of the CLUE dataset](https://github.com/mtrives02/CLUE/blob/main/clue_dataset.xlsx)
+[Click here to download the full version of the CLUE dataset](https://github.com/mtrives02/CLUE/releases/download/1.0/clue_dataset.zip)
 
 ## Description
 CLUE is a Spanish-English pararell dataset for training and evaluating LLMs in figurative language processing. It is based on the Conventional Figurative Language Theory (CFLT) and is composed of metaphors, idioms, similes, and proverbs.
