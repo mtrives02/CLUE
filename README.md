@@ -1,11 +1,11 @@
-# CLUE
+# CLUE (Conventional Language Units for Evaluation)
 Author: Marta Ramírez Trives
 
 ## Download Link
-[Click here to download the CLUE dataset](https://github.com/mtrives02/CLUE/blob/main/clue_dataset.xlsx)
+[Click here to download the full version of the CLUE dataset](https://github.com/mtrives02/CLUE/blob/main/clue_dataset.xlsx)
 
 ## Description
-CLUE (Conventional Language Units for Evaluation) is a Spanish-English pararell dataset for training and evaluating LLMs in figurative language processing. It is based on the Conventional Figurative Language Theory (CFLT) and is composed of metaphors, idioms, similes, and proverbs.
+CLUE is a Spanish-English pararell dataset for training and evaluating LLMs in figurative language processing. It is based on the Conventional Figurative Language Theory (CFLT) and is composed of metaphors, idioms, similes, and proverbs.
 
 CLUE's bilingual nature allows for a direct comparative evaluation of performance in English versus Spanish, a language with comparatively fewer resources in the field of AI.
 The dataset can be used in multiple figurative language processing tasks, such as detection, interpretation, and generation.
