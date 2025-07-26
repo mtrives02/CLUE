@@ -5,12 +5,12 @@ Author: Marta Ramírez Trives
 [Click here to download the full version of the CLUE dataset](https://github.com/mtrives02/CLUE/releases/download/1.0/clue_dataset.zip)
 
 ## Description
-CLUE is a Spanish-English pararell dataset for training and evaluating LLMs in figurative language processing. It is based on the Conventional Figurative Language Theory (CFLT) and is composed of metaphors, idioms, similes, and proverbs.
+CLUE is a Spanish-English pararell dataset for training and evaluating LLMs in figurative language processing. It is based on the Conventional Figurative Language Theory (CFLT) and is composed of one-word metaphors, idioms, similes, and proverbs.
 
 CLUE's bilingual nature allows for a direct comparative evaluation of performance in English versus Spanish, a language with comparatively fewer resources in the field of AI.
 The dataset can be used in multiple figurative language processing tasks, such as detection, interpretation, and generation.
 
-The CLUE dataset was developed within the framework of the Master's Thesis "El lenguaje figurado en los LLM: Evaluación y análisis" (Figurative Language in LLMs: Evaluation
+The CLUE dataset was developed within the framework of the Master's thesis "El lenguaje figurado en los LLM: evaluación y análisis" (Figurative Language in LLMs: Evaluation
 and Analysis) at the University of Alicante. The thesis provides a detailed description of CLUE's creation and a comprehensive evaluation of the performance of several
 state-of-the-art language models.
 
@@ -22,7 +22,20 @@ state-of-the-art language models.
 * CFU - the Conventional Figurative Unit (e.g., "to kick the bucket").
 * Type - the type of CFU (simplex, idiom, simile, proverb).
 * Concept - the basic meaning of concept expressed by the CFU (e.g., "to die").
-* Context - an example sentence showing the real use of the CFU.
+* Context - a real example sentence showing the use of the CFU.
+
+## Citing
+If you use this dataset in your work, please cite the following Master's thesis:
+```
+@mastersthesis{ramireztrives2025lengfig,
+  title={El lenguaje figurado en los {LLM}: evaluaci{\'o}n y an{\'a}lisis},
+  author={Ram{\'i}rez Trives, Marta},
+  school={University of Alicante},
+  address={San Vicente del Raspeig, Espa{\~n}a}
+  type={Master's thesis}
+  year={2025},
+}
+```
 
 ## License
 Distributed under the [Creative Commons Zero v1.0 Universal license](https://github.com/mtrives02/CLUE/blob/main/LICENSE).
